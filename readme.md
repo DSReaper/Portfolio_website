@@ -15,7 +15,6 @@ A clean portfolio that fetches all public repos from a GitHub user and displays 
 
 ## Notes
 - Server‑side fetch uses the GitHub REST API: `GET /users/{username}/repos`.
-- Provide a token to raise rate limits if needed.
 - Update text content in `server.js` → `profile` object.
 
 
