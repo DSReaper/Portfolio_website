@@ -6,7 +6,7 @@ A clean portfolio that fetches all public repos from a GitHub user and displays 
 
 ## Setup
 1. Clone this folder.
-2. `cp .env.example .env` and set `GITHUB_USERNAME`. Optionally set `GITHUB_TOKEN`.
+2. `cp .env.example .env` and set `GITHUB_USERNAME`.
 3. Put your photo at `public/images/me.jpg`.
 4. `npm install`
 5. `npm run dev`
